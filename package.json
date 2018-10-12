@@ -1,0 +1,12 @@
+{
+  "name": "xteck_test",
+  "version": "1.0.0",
+  "description": "this is the test from xteck ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "saidi zied",
+  "license": "ISC"
+ 
+}
